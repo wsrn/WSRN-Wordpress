@@ -1,0 +1,1 @@
+<div <?php post_class();?> id="post-<?php the_ID(); ?>">			<?php get_template_part('post/search-title'); ?>				<?php the_excerpt(); ?></div>

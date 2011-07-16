@@ -1,0 +1,1 @@
+<div class="meta">	<span class="meta-info meta-text meta-link">Posted on <?php the_time('jS F Y') ?> in <?php the_category(', ') ?></span>	<div class="post-meta-end"></div></div>	
